@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">HTTP Secure Tunnel</string>
+    <string name="connect">CONNECT</string>
+    <string name="disconnect">DISCONNECT</string>
+    <string name="proxy_host">Proxy Host</string>
+    <string name="proxy_port">Proxy Port</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="always_on_vpn">Always-on VPN</string>
+    <string name="show_configuration">Show Configuration</string>
+    <string name="hide_configuration">Hide Configuration</string>
+    <string name="status_disconnected">Disconnected</string>
+    <string name="status_connecting">Connecting…</string>
+    <string name="status_connected">Connected</string>
+    <string name="internet_blocked_warning">Internet Connection Blocked for Security. Connect to Proxy to Restore Internet.</string>
+    <string name="vpn_preparation_title">VPN Connection Request</string>
+    <string name="vpn_preparation_message">HTTP Secure Tunnel needs VPN permission to route traffic through the proxy</string>
+</resources>
