@@ -1,0 +1,16 @@
+```gitignore
+# Build files
+*.apk
+*.aar
+*.aab
+.gradle/
+build/
+local.properties
+
+# IDE files  
+*.iml
+.idea/
+
+# System files
+.DS_Store
+Thumbs.db
